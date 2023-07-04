@@ -10,13 +10,14 @@ body {
     overflow: hidden;
     background-color: rgb(255, 157, 0);
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 
 section {
-    width: calc(100% - 100px);
+    width: calc(100% - 10px);
     height: 100%;
     margin: auto;
-    margin: 0px 50px;
     border-radius: 15px;
 }
 
