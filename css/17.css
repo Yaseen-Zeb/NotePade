@@ -46,6 +46,7 @@ section {
 .note_pade {
     position: absolute;
     text-align: center;
+    /* left: 40%; */
     display: block;
     top: 125px;
     z-index: 2;
